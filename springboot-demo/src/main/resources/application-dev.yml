@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+person:
+  name: '张三'
+  age: 18
+  number:
+    - 18756001161
+    - 19353045330
