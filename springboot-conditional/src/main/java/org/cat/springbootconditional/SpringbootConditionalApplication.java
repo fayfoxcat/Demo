@@ -20,8 +20,8 @@ public class SpringbootConditionalApplication {
         Object user2 = context.getBean("user2");
         System.out.println(user2);
 
-        Object user3 = context.getBean("user3");
-        System.out.println(user3);
+//        Object user3 = context.getBean("user3");
+//        System.out.println(user3);
 
 
     }
